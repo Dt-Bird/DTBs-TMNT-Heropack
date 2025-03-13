@@ -1,0 +1,8 @@
+{
+  "name": "Baseball Bat",
+  "permission": "MELEE_BASEBALL_BAT",
+  "holdingPose": "SINGLE",
+  "melee": {
+    "attackDamage": 5
+  }
+}
