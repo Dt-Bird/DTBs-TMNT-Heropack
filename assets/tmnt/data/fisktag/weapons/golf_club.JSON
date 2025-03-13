@@ -1,0 +1,8 @@
+{
+  "name": "Golf Club",
+  "permission": "MELEE_GOLF_CLUB",
+  "holdingPose": "SINGLE",
+  "melee": {
+    "attackDamage": 4.5
+  }
+}
