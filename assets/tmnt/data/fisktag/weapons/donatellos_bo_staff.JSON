@@ -1,0 +1,8 @@
+{
+  "name": "Donatello's Bo Staff",
+  "permission": "MELEE_BOSTAFF",
+  "holdingPose": "SINGLE",
+  "melee": {
+    "attackDamage": 5.5
+  }
+}
