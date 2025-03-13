@@ -1,0 +1,7 @@
+{
+  "suit": "tmnt:master_splinter_tmnt_1987",
+  "requirements": [
+    "fiskheroes:tier1",
+    "tmnt:tmnt"
+  ]
+}
