@@ -1,0 +1,8 @@
+{
+  "name": "Sledge Hammer",
+  "permission": "MELEE_HAMMER",
+  "holdingPose": "SINGLE",
+  "melee": {
+    "attackDamage": 6
+  }
+}
