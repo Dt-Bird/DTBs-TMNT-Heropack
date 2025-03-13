@@ -1,0 +1,8 @@
+{
+  "name": "Hockey Stick",
+  "permission": "MELEE_HOCKEY_STICK",
+  "holdingPose": "SINGLE",
+  "melee": {
+    "attackDamage": 4
+  }
+}
