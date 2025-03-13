@@ -1,0 +1,7 @@
+{
+  "suit": "tmnt:foot_soldier_tmnt_1987",
+  "requirements": [
+    "fiskheroes:tier1",
+    "tmnt:tmnt"
+  ]
+}
