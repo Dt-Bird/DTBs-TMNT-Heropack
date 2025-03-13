@@ -1,0 +1,30 @@
+{
+  "name": "Ninja Skills",
+  "modifiers": {
+    "fiskheroes:equipment": {
+      "equipment": {
+        "fiskheroes:throwing_star": {
+          "cooldown": 13,
+          "uses": 3,
+          "damageProfile": {
+            "damage": 8.0,
+            "types": {
+              "SHURIKEN": 1.0
+            },
+            "properties": {
+              "DAMAGE_DROPOFF": 0.6,
+              "HIT_COOLDOWN": 0
+            }
+          }
+        },
+        "fiskheroes:smoke_pellet": {
+          "cooldown": 200,
+          "uses": 2
+        }
+      },
+      "soundEvents": {
+        "SWITCH": "fiskheroes:utility_belt_switch"
+      }
+    }
+  }
+}
