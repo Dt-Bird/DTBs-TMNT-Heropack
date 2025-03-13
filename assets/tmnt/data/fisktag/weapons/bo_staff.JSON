@@ -1,0 +1,8 @@
+{
+  "name": "Bo Staff",
+  "permission": "MELEE_BOSTAFF",
+  "holdingPose": "SINGLE",
+  "melee": {
+    "attackDamage": 5
+  }
+}
