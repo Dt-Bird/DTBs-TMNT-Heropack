@@ -1,0 +1,11 @@
+{
+  "display": {
+    "name": "DTB's TMNT Heropack",
+    "description": "Adds Your Favorite Turtles!",
+    "icon": {
+      "texture": "tmnt:textures/gui/nodes/tmnt_node.png"
+    }
+  },
+  "autoUnlock": true,
+  "requirements": [ ]
+}
