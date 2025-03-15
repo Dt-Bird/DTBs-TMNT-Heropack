@@ -8,6 +8,9 @@ function init(hero) {
     hero.setLeggings("item.superhero_armor.piece.pants");
     hero.setBoots("item.superhero_armor.piece.boots");
 	hero.addPrimaryEquipment("fisktag:weapon{WeaponType:tmnt:raphaels_sai,Dual:1}", true, item => item.nbt().getString("WeaponType") == "tmnt:raphaels_sai" && item.nbt().getBoolean("Dual"));
+	hero.addPrimaryEquipment("fiskheroes:grappling_gun", true);
+	
+	hero.setHasPermission((entity, permission) => permission == "USE_GUN" || permission == "USE_GRAPPLING_GUN");
 	
 	hero.addPowers("tmnt:mutant_ninja_skills");
 	hero.addAttribute("PUNCH_DAMAGE", 8.0, 0);

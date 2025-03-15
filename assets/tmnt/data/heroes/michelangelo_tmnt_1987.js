@@ -8,6 +8,10 @@ function init(hero) {
     hero.setLeggings("item.superhero_armor.piece.pants");
     hero.setBoots("item.superhero_armor.piece.boots");
 	
+	hero.addPrimaryEquipment("fiskheroes:grappling_gun", true);
+	
+	hero.setHasPermission((entity, permission) => permission == "USE_GUN" || permission == "USE_GRAPPLING_GUN");
+	
 	hero.addPowers("tmnt:mutant_ninja_skills");
 	hero.addAttribute("PUNCH_DAMAGE", 8.0, 0);
     hero.addAttribute("WEAPON_DAMAGE", 6.0, 0);
