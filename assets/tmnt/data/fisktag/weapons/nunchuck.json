@@ -1,0 +1,11 @@
+{
+  "name": "Michelangelo's Nunchucks",
+  "permission": "MELEE_NUNCHUCK",
+  "holdingPose": "DUAL",
+  "nbt": {
+	"Dual": 1
+  },
+  "melee": {
+    "attackDamage": 6
+  }
+}
