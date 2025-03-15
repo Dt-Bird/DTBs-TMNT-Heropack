@@ -7,7 +7,7 @@ function init(hero) {
     hero.setChestplate("item.superhero_armor.piece.chestpiece");
     hero.setLeggings("item.superhero_armor.piece.pants");
     hero.setBoots("item.superhero_armor.piece.boots");
-	
+	hero.addPrimaryEquipment("fisktag:weapon{WeaponType:tmnt:nunchuck,Dual:1}", true, item => item.nbt().getString("WeaponType") == "tmnt:nunchuck" && item.nbt().getBoolean("Dual"));
 	hero.addPrimaryEquipment("fiskheroes:grappling_gun", true);
 	
 	hero.setHasPermission((entity, permission) => permission == "USE_GUN" || permission == "USE_GRAPPLING_GUN");
