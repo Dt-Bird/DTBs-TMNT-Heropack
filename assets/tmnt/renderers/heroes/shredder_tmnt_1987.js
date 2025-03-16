@@ -47,7 +47,7 @@ function render(entity, renderLayer, isFirstPersonArm) {
     }
 	if (renderLayer == "CHESTPLATE") {
         var unfold = entity.getInterpolatedData("fiskheroes:blade_timer");
-        blade.setOffset(2.5, -12.0 + 1.35 * Math.min(unfold * 5, 3.5), -1.0);
+        blade.setOffset(3.5, -11.5 + 1.35 * Math.min(unfold * 5, 1.5), -1.0);
         blade.render();
 	}
 }
