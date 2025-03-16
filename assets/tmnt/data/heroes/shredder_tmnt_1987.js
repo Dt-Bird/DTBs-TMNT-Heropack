@@ -8,7 +8,7 @@ function init(hero) {
     hero.setLeggings("item.superhero_armor.piece.pants");
     hero.setBoots("item.superhero_armor.piece.boots");
 	
-	hero.addPowers("tmnt:ninja_skills");
+	hero.addPowers("tmnt:shredder_armor");
 	hero.addAttribute("PUNCH_DAMAGE", 7.5, 0);
     hero.addAttribute("WEAPON_DAMAGE", 4.0, 0);
     hero.addAttribute("JUMP_HEIGHT", 2.0, 0);
