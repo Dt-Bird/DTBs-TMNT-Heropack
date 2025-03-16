@@ -1,7 +1,7 @@
 function init(hero) {
     hero.setName("Foot Soldier");
     hero.setVersion("1987");
-    hero.setTier(1);
+    hero.setTier(2);
     
     hero.setHelmet("item.superhero_armor.piece.mask");
     hero.setChestplate("item.superhero_armor.piece.chestpiece");

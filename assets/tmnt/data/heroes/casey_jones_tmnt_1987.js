@@ -1,7 +1,7 @@
 function init(hero) {
     hero.setName("Casey Jones");
     hero.setVersion("1987");
-    hero.setTier(2);
+    hero.setTier(3);
     
     hero.setHelmet("item.superhero_armor.piece.mask");
     hero.setChestplate("item.superhero_armor.piece.chestpiece");
