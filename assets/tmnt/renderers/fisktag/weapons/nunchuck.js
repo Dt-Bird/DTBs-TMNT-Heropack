@@ -18,15 +18,15 @@ function render(renderer, entity, glProxy, renderType, scopeTimer, recoil, isLef
 		glProxy.scale(1.0);
 	}
     else if (renderType === "INVENTORY") {
-		glProxy.translate(0.0, 0.2, 0.0);
+		glProxy.translate(-0.1, 0.2, -0.8);
 		glProxy.rotate(50, 1, 0, 0);
 		glProxy.rotate(0, 0, 1, 0);
 		glProxy.rotate(10, 0, 0, 1);
 		glProxy.scale(1.0);
     }
 	else if (renderType === "ENTITY") {
-		glProxy.translate(0.0, 0.0, 0.0);
-		glProxy.rotate(95, 1, 0, 0);
+		glProxy.translate(0.0, -0.5, 0.0);
+		glProxy.rotate(0, 1, 0, 0);
 		glProxy.rotate(35, 0, -1, 0);
 		glProxy.rotate(10, 0, 0, 1);
 		glProxy.scale(1);
