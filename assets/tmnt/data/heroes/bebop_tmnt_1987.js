@@ -3,7 +3,7 @@ function init(hero) {
     hero.setVersion("1987");
     hero.setTier(4);
     
-    hero.setHelmet("item.superhero_armor.piece.mask");
+    hero.setHelmet("item.superhero_armor.piece.head");
     hero.setChestplate("item.superhero_armor.piece.chestpiece");
     hero.setLeggings("item.superhero_armor.piece.pants");
     hero.setBoots("item.superhero_armor.piece.boots");

@@ -3,10 +3,10 @@ function init(hero) {
     hero.setVersion("1987");
     hero.setTier(3);
     
-    hero.setHelmet("item.superhero_armor.piece.mask");
-    hero.setChestplate("item.superhero_armor.piece.chestpiece");
-    hero.setLeggings("item.superhero_armor.piece.pants");
-    hero.setBoots("item.superhero_armor.piece.boots");
+    hero.setHelmet("item.superhero_armor.piece.head");
+    hero.setChestplate("Robe");
+    hero.setLeggings("Black Belt");
+    hero.setBoots("Wraps");
 	
 	hero.addPowers("tmnt:mutant_ninja_skills");
 	hero.addAttribute("DAMAGE_REDUCTION", 0.75, 1);

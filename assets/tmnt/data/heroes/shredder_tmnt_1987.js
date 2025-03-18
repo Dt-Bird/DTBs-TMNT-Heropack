@@ -3,10 +3,10 @@ function init(hero) {
     hero.setVersion("1987");
     hero.setTier(7);
     
-    hero.setHelmet("item.superhero_armor.piece.mask");
-    hero.setChestplate("item.superhero_armor.piece.chestpiece");
-    hero.setLeggings("item.superhero_armor.piece.pants");
-    hero.setBoots("item.superhero_armor.piece.boots");
+    hero.setHelmet("Helmet");
+    hero.setChestplate("Chestplate");
+    hero.setLeggings("Leggings");
+    hero.setBoots("Boots");
 	
 	hero.addPowers("tmnt:shredder_armor");
 	hero.addAttribute("PUNCH_DAMAGE", 7.5, 0);
