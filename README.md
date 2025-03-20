@@ -2,7 +2,7 @@ Hey there! Welcome to the DTB TMNT HEROPACK Github Repository. Here I will uploa
 
 DO NOT reupload this heropack and pawn it off as your own content to Curseforge, Modrinth, Technic, Servers, PMC, or anywhere else. Please Provide this repository or any of my pages with credit as I make sure to credit all proper authors, or texturers!
 Feel free to use this heropack on your Minecraft server or Modpack under condition 1. that it complies with Minecraft's EULA Agreement, specifcally subsection "Servers and Hosting" reference here (https://www.minecraft.net/en-us/usage-guidelines) 
-and condition 2. that you wait for an Offical release on Curseforge or Modrinth before using the pack publicly.
+and condition 2. that you wait for an Offical release on Curseforge or Modrinth before using the pack publicly. And finally Condition 3. that you not alter the pack in anyway.
 
 Feel free to use to your hearts content for personal\private use.
 
