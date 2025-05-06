@@ -1,0 +1,29 @@
+{
+    "name": "Turtle Line",
+    "modifiers": {
+        "fiskheroes:leaping": {
+      "leapAmount": [1.0, 0.25]
+    },
+    "fiskheroes:leaping|springboard": {
+      "leapAmount": [2.0, 0.75],
+      "soundEvents": {
+        "LEAP": "fiskheroes:web_swinging_whoosh"
+      }
+    },
+    "fiskheroes:web_swinging": {
+      "range": 22.5,
+      "cooldownTime": 5,
+      "soundEvents": {
+        "SHOOT": "fiskheroes:web_shoot",
+        "SWING": ["fiskheroes:web_swinging", "fiskheroes:web_stress_loop"]
+      }
+    },
+    "fiskheroes:web_zip": {
+      "range": 22.5,
+      "cooldownTime": 17,
+      "soundEvents": {
+        "SHOOT": "fiskheroes:web_zip"
+      }
+    }
+  }
+}
