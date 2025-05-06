@@ -2,6 +2,7 @@
   "suit": "tmnt:raphael_tmnt_1987",
   "requirements": [
     "fiskheroes:tier6_7",
+    "fiskheroes:defense2",
     "fiskheroes:traversal2",
     "fiskheroes:melee2",
     "fiskheroes:ranged2",
