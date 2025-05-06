@@ -1,0 +1,11 @@
+{
+  "display": {
+    "name": "1987 TMNT",
+    "description": "Adds Your Favorite Turtles!",
+    "icon": {
+      "texture": "tmnt:textures/gui/nodes/tmnt_node.png"
+    }
+  },
+  "autoUnlock": true,
+  "requirements": [ ]
+}

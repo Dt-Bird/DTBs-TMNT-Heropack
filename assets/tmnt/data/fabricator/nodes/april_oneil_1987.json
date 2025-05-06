@@ -1,7 +1,7 @@
 {
-  "suit": "tmnt:shredder_tmnt_1987",
+  "suit": "tmnt:april_oneil_1987",
   "requirements": [
-    "fiskheroes:tier6_7",
+    "fiskheroes:tier1",
     "tmnt:tmnt",
     "tmnt:1987"
   ]
