@@ -1,0 +1,11 @@
+{
+    "name": "Sais",
+    "permission": "MELEE_SAI",
+    "holdingPose": "DUAL",
+    "nbt": {
+      "Dual": 1
+    },
+    "melee": {
+      "attackDamage": 6
+    }
+  }

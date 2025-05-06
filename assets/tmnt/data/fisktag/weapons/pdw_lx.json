@@ -1,0 +1,42 @@
+{
+    "name": "Micro PDW-LX",
+    "permission": "USE_FISKTAG_GUN",
+    "holdingPose": "SINGLE",
+    "isHidden": false,
+    "cooldown": 5,
+    "damageProfile": {
+      "damage": 3,
+      "types": {
+        "ENERGY": 1
+      }
+    },
+    "fisktag": {
+      "sprintShootDelay": 4,
+      "sprintDelay": 6
+    },
+    "scope": {
+      "zoom": 0.45,
+      "allowHeadshots": true,
+      "headshotDamageBonus": 1
+    },
+    "spread": {
+      "sprintingFactor": 1.5,
+      "fallingFactor": 1.6,
+      "scopingFactor": 0.8
+    },
+    "recoil": {
+      "amount": 0.2,
+      "cameraShake": 1.5
+    },
+    "projectiles": [
+      {
+        "type": "BEAM",
+        "spread": 0.75,
+        "trail": 1
+      }
+    ],
+    "soundEvents": {
+      "SHOOT": "fisktag:pistol_shoot"
+    }
+  }
+  
