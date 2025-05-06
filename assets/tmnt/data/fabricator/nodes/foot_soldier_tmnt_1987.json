@@ -2,6 +2,9 @@
   "suit": "tmnt:foot_soldier_tmnt_1987",
   "requirements": [
     "fiskheroes:tier2_3",
+    "fiskheroes:traversal",
+    "fiskheroes:melee2",
+    "fiskheroes:ranged2",
     "tmnt:tmnt",
     "tmnt:1987"
   ]

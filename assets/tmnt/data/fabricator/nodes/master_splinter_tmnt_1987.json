@@ -2,6 +2,8 @@
   "suit": "tmnt:master_splinter_tmnt_1987",
   "requirements": [
     "fiskheroes:tier2_3",
+    "fiskheroes:melee",
+    "fiskheroes:traversal",
     "tmnt:tmnt",
     "tmnt:1987"
   ]

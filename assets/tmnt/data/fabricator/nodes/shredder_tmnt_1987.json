@@ -2,6 +2,9 @@
   "suit": "tmnt:shredder_tmnt_1987",
   "requirements": [
     "fiskheroes:tier6_7",
+    "fiskheroes:teleportation",
+    "fiskheroes:melee2",
+    "fiskheroes:ranged3",
     "tmnt:tmnt",
     "tmnt:1987"
   ]
