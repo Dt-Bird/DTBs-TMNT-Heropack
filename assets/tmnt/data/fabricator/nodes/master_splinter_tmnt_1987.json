@@ -3,6 +3,7 @@
   "requirements": [
     "fiskheroes:tier2_3",
     "fiskheroes:defense",
+    "fiskheroes:ranged2",
     "fiskheroes:melee",
     "fiskheroes:traversal",
     "tmnt:tmnt",

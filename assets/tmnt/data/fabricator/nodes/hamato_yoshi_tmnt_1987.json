@@ -1,0 +1,11 @@
+{
+  "suit": "tmnt:hamato_yoshi_tmnt_1987",
+  "requirements": [
+    "fiskheroes:tier1",
+    "fiskheroes:traversal",
+    "fiskheroes:melee",
+    "fiskheroes:ranged2",
+    "tmnt:tmnt",
+    "tmnt:1987"
+  ]
+}
