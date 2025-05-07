@@ -9,14 +9,15 @@ function init(hero) {
     hero.setBoots("item.superhero_armor.piece.boots");
     hero.addPrimaryEquipment("fisktag:weapon{WeaponType:tmnt:pdw_lx}", true);
 	
-    hero.addPowers("fiskheroes:grenades");
+    hero.addPowers("tmnt:mutant_rhino_physiology", "fiskheroes:grenades");
 	hero.addAttribute("PUNCH_DAMAGE", 8.0, 0);
     hero.addAttribute("FALL_RESISTANCE", 0.45, 1);
     hero.addAttribute("SPRINT_SPEED", 0.45, 1);
 	
     hero.addKeyBind("AIM", "key.aim", -1);
     hero.addKeyBind("GUN_RELOAD", "key.reload", 1);
-    hero.addKeyBind("UTILITY_BELT", "key.grenades", 2);
+    hero.addKeyBind("UTILITY_BELT", "key.grenades", 3);
+    hero.addKeyBind("GROUND_SMASH", "key.groundSmash", 2);
 
     hero.setHasPermission(hasPermission);
 	hero.supplyFunction("canAim", canAim);
