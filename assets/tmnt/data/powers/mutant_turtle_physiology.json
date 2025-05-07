@@ -26,8 +26,7 @@
         "SWITCH": "fiskheroes:utility_belt_switch"
       }
     },
-	"fiskheroes:damage_immunity": {
-      "damageType": "BULLET"
+	  "fiskheroes:projectile_immunity": {
     },
     "fiskheroes:leaping": {
       "leapAmount": [2.0, 0.2]

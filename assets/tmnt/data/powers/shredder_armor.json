@@ -32,8 +32,7 @@
         "DISABLE": "fiskheroes:manta_blade_disable"
       }
     },
-    "fiskheroes:damage_immunity": {
-      "damageType": "BULLET"
+    "fiskheroes:projectile_immunity": {
     },
     "fiskheroes:leaping": {
       "leapAmount": [0.5, 0.1]

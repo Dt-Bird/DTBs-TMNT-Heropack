@@ -1,0 +1,22 @@
+{
+    "name": "Mutant Warthog Physiology",
+    "modifiers": {
+    "fiskheroes:projectile_immunity": {
+    },
+    "fiskheroes:damage_immunity": {
+      "damageType": "BULLET"
+    },
+    "fiskheroes:ground_smash": {
+      "damageProfile": {
+        "damage": 15.0,
+        "types": {
+          "EXPLOSION": 1.0
+        }
+      },
+      "radius": 3.0,
+      "knockback": 8.0,
+      "cooldownTime": 150,
+      "canDoGriefing": true
+    }
+  }
+}
