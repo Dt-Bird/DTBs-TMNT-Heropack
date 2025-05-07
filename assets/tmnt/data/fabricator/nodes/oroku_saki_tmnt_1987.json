@@ -1,7 +1,7 @@
 {
   "suit": "tmnt:oroku_saki_tmnt_1987",
   "requirements": [
-    "fiskheroes:tier1",
+    "fiskheroes:tier2_3",
     "fiskheroes:traversal",
     "fiskheroes:melee",
     "fiskheroes:ranged2",
