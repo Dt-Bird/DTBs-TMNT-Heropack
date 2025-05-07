@@ -1,7 +1,7 @@
 function init(hero) {
     hero.setName("Hamato Yoshi");
     hero.setVersion("1987");
-    hero.setTier(1);
+    hero.setTier(2);
     
     hero.setHelmet("Head");
     hero.setChestplate("Nagagi");
