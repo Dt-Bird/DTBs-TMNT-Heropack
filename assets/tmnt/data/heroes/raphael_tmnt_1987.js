@@ -5,7 +5,7 @@ function init(hero) {
     
     hero.setHelmet("item.superhero_armor.piece.mask");
     hero.setChestplate("item.superhero_armor.piece.chestpiece");
-    hero.setLeggings("item.superhero_armor.piece.pants");
+    hero.setLeggings("Legs");
     hero.setBoots("Feet");
 
 	hero.addPrimaryEquipment("fisktag:weapon{WeaponType:tmnt:raphaels_sai,Dual:1}", true, item => item.nbt().getString("WeaponType") == "tmnt:raphaels_sai" && item.nbt().getBoolean("Dual"));

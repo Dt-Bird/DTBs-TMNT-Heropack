@@ -5,7 +5,7 @@ function init(hero) {
     
     hero.setHelmet("item.superhero_armor.piece.mask");
     hero.setChestplate("item.superhero_armor.piece.chestpiece");
-    hero.setLeggings("item.superhero_armor.piece.pants");
+    hero.setLeggings("Legs");
     hero.setBoots("Feet");
     
 	hero.addPrimaryEquipment("fiskheroes:katana{Dual:1}", true, item => item.nbt().getBoolean("Dual"));
