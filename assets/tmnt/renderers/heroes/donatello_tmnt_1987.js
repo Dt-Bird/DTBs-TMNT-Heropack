@@ -44,7 +44,7 @@ function initEffects(renderer) {
 
     renderer.bindProperty("fiskheroes:equipped_item").setItems([
         { "anchor": "body", "scale": 0.535, "offset": [0.0, 6.0, 3.4], "rotation": [-148.0, 270.0, 0.0] }
-    ]).slotIndex = 0;
+    ]).setCondition(entity => entity.getWornChestplate().suitType() == "tmnt:donatello_tmnt_1987")
 }
 
 function initAnimations(renderer) {
@@ -83,7 +83,7 @@ function initAnimations(renderer) {
 }
 
 function render(entity, renderLayer, isFirstPersonArm) {
-    if (!isFirstPersonArm && renderLayer == "CHESTPLATE") {
+    if (!isFirstPersonArm && renderLayer == "CHESTPLATE" && entity.getWornChestplate().suitType() == "tmnt:donatello_tmnt_1987") {
         beltloops.render();
     }
 }
