@@ -1,7 +1,46 @@
 {
-  "name": "DTB's TMNT Heropack",
-  "description": "Adds Your Favorite Turtles!",
+  "name": "\u00A7lDTB's TMNT Heropack",
+  "description": "\u00A7aAdds Your Favorite Turtles! \u00A76v0.0.1",
   "domain": "tmnt",
   "packFormat": 1,
-  "watermark": "DTB's TMNT"
+  "watermark": "&a&lDTB's TMNT",
+
+  "alts": {
+    "tmnt:raphael_tmnt_1987": {
+      "trenchcoat": {
+        "name": "Trench Coat & Hat Disguise",
+        "armor": {
+          "HELMET": "Hat",
+          "CHESTPLATE": "Trench Coat"
+        }
+      }
+    },
+    "tmnt:donatello_tmnt_1987": {
+      "trenchcoat": {
+        "name":"Trench Coat & Hat Disguise",
+        "armor": {
+          "HELMET": "Hat",
+          "CHESTPLATE": "Trench Coat"
+        }
+      }
+    },
+    "tmnt:leonardo_tmnt_1987": {
+      "trenchcoat": {
+        "name":"Trench Coat & Hat Disguise",
+        "armor": {
+          "HELMET": "Hat",
+          "CHESTPLATE":"Trench Coat"
+        }
+      }
+    },
+    "tmnt:michelangelo_tmnt_1987": {
+      "trenchcoat": {
+        "name":"Trench Coat & Hat Disguise",
+        "armor": {
+          "HELMET": "Hat",
+          "CHESTPLATE":"Trench Coat"
+        }
+      }
+    }
+  }  
 }
