@@ -10,7 +10,7 @@ function init(hero) {
     hero.addPrimaryEquipment("fisktag:weapon{WeaponType:tmnt:pdw_lx}", true);
 	
     hero.addPowers("tmnt:mutant_rhino_physiology", "fiskheroes:grenades");
-	hero.addAttribute("PUNCH_DAMAGE", 8.0, 0);
+	hero.addAttribute("PUNCH_DAMAGE", 5.0, 0);
     hero.addAttribute("FALL_RESISTANCE", 0.45, 1);
     hero.addAttribute("SPRINT_SPEED", 0.45, 1);
 	

@@ -5,14 +5,14 @@ function init(hero) {
     
     hero.setHelmet("item.superhero_armor.piece.mask");
     hero.setChestplate("item.superhero_armor.piece.chestpiece");
-    hero.setLeggings("item.superhero_armor.piece.pants");
+    hero.setLeggings("Legs");
     hero.setBoots("Feet");
 
 	hero.addPrimaryEquipment("fisktag:weapon{WeaponType:tmnt:nunchuck,Dual:1}", true, item => item.nbt().getString("WeaponType") == "tmnt:nunchuck" && item.nbt().getBoolean("Dual"));
 	
 	hero.addPowers("tmnt:mutant_turtle_physiology", "tmnt:turtle_line", "tmnt:tmnt_plot_armor");
 
-	hero.addAttribute("PUNCH_DAMAGE", 8.0, 0);
+	hero.addAttribute("PUNCH_DAMAGE", 6.0, 0);
     hero.addAttribute("WEAPON_DAMAGE", 6.0, 0);
     hero.addAttribute("JUMP_HEIGHT", 2.0, 0);
     hero.addAttribute("FALL_RESISTANCE", 1, 1);

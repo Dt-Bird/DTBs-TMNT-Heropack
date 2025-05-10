@@ -12,7 +12,7 @@ function init(hero) {
 
 	hero.addPowers("tmnt:ninja_skills");
 	hero.addAttribute("DAMAGE_REDUCTION", 0.75, 1);
-	hero.addAttribute("PUNCH_DAMAGE", 4.0, 0);
+	hero.addAttribute("PUNCH_DAMAGE", 2.0, 0);
     hero.addAttribute("WEAPON_DAMAGE", 1.0, 0);
     hero.addAttribute("JUMP_HEIGHT", 1.0, 0);
     hero.addAttribute("FALL_RESISTANCE", 0.45, 1);

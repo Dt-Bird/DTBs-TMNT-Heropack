@@ -12,7 +12,7 @@ function init(hero) {
 	
 	hero.addPowers("tmnt:mutant_turtle_physiology", "tmnt:turtle_line", "tmnt:tmnt_plot_armor");
 
-	hero.addAttribute("PUNCH_DAMAGE", 8.0, 0);
+	hero.addAttribute("PUNCH_DAMAGE", 6.0, 0);
     hero.addAttribute("WEAPON_DAMAGE", 6.0, 0);
     hero.addAttribute("JUMP_HEIGHT", 2.0, 0);
     hero.addAttribute("FALL_RESISTANCE", 1, 1);
