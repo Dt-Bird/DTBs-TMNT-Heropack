@@ -8,7 +8,7 @@
     },
     "fiskheroes:ground_smash": {
       "damageProfile": {
-        "damage": 15.0,
+        "damage": 10.0,
         "types": {
           "EXPLOSION": 1.0
         }
