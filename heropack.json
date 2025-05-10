@@ -13,6 +13,13 @@
           "HELMET": "Hat",
           "CHESTPLATE": "Trench Coat"
         }
+      },
+      "punk": {
+        "name": "Punk Disguise",
+        "armor": {
+          "HELMET": "Glasses",
+          "CHESTPLATE": "Jacket"
+        }
       }
     },
     "tmnt:donatello_tmnt_1987": {
@@ -21,6 +28,13 @@
         "armor": {
           "HELMET": "Hat",
           "CHESTPLATE": "Trench Coat"
+        }
+      },
+      "punk": {
+        "name": "Punk Disguise",
+        "armor": {
+          "HELMET": "Glasses",
+          "CHESTPLATE": "Jacket"
         }
       }
     },
@@ -31,6 +45,13 @@
           "HELMET": "Hat",
           "CHESTPLATE":"Trench Coat"
         }
+      },
+      "punk": {
+        "name": "Punk Disguise",
+        "armor": {
+          "HELMET": "Glasses",
+          "CHESTPLATE": "Jacket"
+        }
       }
     },
     "tmnt:michelangelo_tmnt_1987": {
@@ -39,6 +60,13 @@
         "armor": {
           "HELMET": "Hat",
           "CHESTPLATE":"Trench Coat"
+        }
+      },
+      "punk": {
+        "name": "Punk Disguise",
+        "armor": {
+          "HELMET": "Glasses",
+          "CHESTPLATE": "Jacket"
         }
       }
     }
