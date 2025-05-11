@@ -57,7 +57,7 @@ function getProfile(entity) {
 function isKeyBindEnabled(entity, keyBind) {  
 	switch (keyBind) {
 	case "BLADE":
-        return entity.getHeldItem().isEmpty() && !entity.getData("fiskheroes:blade");
+        return entity.getHeldItem().isEmpty();
     case "GUN_RELOAD":
         return entity.getHeldItem().isGun();
     case "UTILITY_BELT":
