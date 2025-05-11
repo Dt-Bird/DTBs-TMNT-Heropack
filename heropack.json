@@ -18,7 +18,17 @@
         "name": "Punk Disguise",
         "armor": {
           "HELMET": "Glasses",
-          "CHESTPLATE": "Jacket"
+          "CHESTPLATE": "Jacket",
+          "BOOTS": "Sneakers"
+        }
+      },
+      "street": {
+        "name": "Street Disguise",
+        "armor": {
+          "HELMET": "Beanie",
+          "CHESTPLATE": "Puffer Jacket",
+          "LEGGINGS": "Pants",
+          "BOOTS": "Boots"
         }
       }
     },
@@ -34,7 +44,17 @@
         "name": "Punk Disguise",
         "armor": {
           "HELMET": "Glasses",
-          "CHESTPLATE": "Jacket"
+          "CHESTPLATE": "Jacket",
+          "BOOTS": "Sneakers"
+        }
+      },
+      "street": {
+        "name": "Street Disguise",
+        "armor": {
+          "HELMET": "Beanie",
+          "CHESTPLATE": "Puffer Jacket",
+          "LEGGINGS": "Pants",
+          "BOOTS": "Boots"
         }
       }
     },
@@ -50,7 +70,17 @@
         "name": "Punk Disguise",
         "armor": {
           "HELMET": "Glasses",
-          "CHESTPLATE": "Jacket"
+          "CHESTPLATE": "Jacket",
+          "BOOTS": "Sneakers"
+        }
+      },
+      "street": {
+        "name": "Street Disguise",
+        "armor": {
+          "HELMET": "Beanie",
+          "CHESTPLATE": "Puffer Jacket",
+          "LEGGINGS": "Pants",
+          "BOOTS": "Boots"
         }
       }
     },
@@ -66,7 +96,17 @@
         "name": "Punk Disguise",
         "armor": {
           "HELMET": "Glasses",
-          "CHESTPLATE": "Jacket"
+          "CHESTPLATE": "Jacket",
+          "BOOTS": "Sneakers"
+        }
+      },
+      "street": {
+        "name": "Street Disguise",
+        "armor": {
+          "HELMET": "Beanie",
+          "CHESTPLATE": "Puffer Jacket",
+          "LEGGINGS": "Pants",
+          "BOOTS": "Boots"
         }
       }
     }
