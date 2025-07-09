@@ -2,5 +2,5 @@ This software is considered "proprietary and all rights reserved" which means th
 These are my (DtBird's MAG) specificities.
 DO NOT reupload this heropack and pawn it off as your own content to Curseforge, Modrinth, Technic, Servers, or anywhere else. The only reuloads allowed would be a port to 1.20.1 if that ever happens and im not around to do so myself.
 Feel free to use this heropack on your Minecraft server or Modpack under condition 1. that it complies with Minecraft's EULA Agreement, specifcally subsection "Servers and Hosting" reference here (https://www.minecraft.net/en-us/usage-guidelines)
-and condition 2. that you wait for an Offical release on Curseforge or Modrinth before using the pack publicly.
+Condition 2. that you wait for an offical release on Curseforge or Modrinth before using the pack publicly. Condition 3. that you not alter the pack in anyway.
 Feel free to use to your hearts content for personal\private use.
