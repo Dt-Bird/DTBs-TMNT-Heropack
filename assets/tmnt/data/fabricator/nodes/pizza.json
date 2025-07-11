@@ -1,0 +1,30 @@
+{
+  "display": {
+    "name": "Pizza",
+    "description": "Feel The Turtle POWER!",
+    "icon": {
+      "texture": "tmnt:textures/gui/nodes/pizza_node.png"
+    }
+  },
+  "criteria": {
+    "pizza": {
+      "trigger": "fiskheroes:item_picked_up_by_player",
+      "minSuccessCount": 1,
+      "description": {
+        "translate": "Pick up your PIZZA delivery!"
+      },
+      "condition": {
+        "variables": {
+          "item": "ITEM_BEING_PICKED_UP"
+        },
+        "check": "item.name() == 'fiskheroes:pizza'"
+      }
+    }
+  },
+  "requirements": [],
+  "locked": true,
+  "price": {
+    "TUTRIDIUM": 2,
+    "XP_LEVELS": 5
+  }
+} 
