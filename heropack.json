@@ -1,6 +1,6 @@
 {
   "name": "\u00A7lDTB's TMNT Heropack",
-  "description": "\u00A7aAdds Your Favorite Turtles! \u00A76v1.0.1",
+  "description": "\u00A7aAdds Your Favorite Turtles! \u00A76v1.0.2",
   "domain": "tmnt",
   "packFormat": 1,
   "watermark": "&a&lDTB's TMNT",
@@ -30,6 +30,14 @@
           "LEGGINGS": "Pants",
           "BOOTS": "Boots"
         }
+      },
+      "business": {
+        "name": "Business Disguise",
+        "armor": {
+          "CHESTPLATE": "Suit & Tie",
+          "LEGGINGS": "Trousers",
+          "BOOTS": "Chukka Boots"
+        }
       }
     },
     "tmnt:donatello_tmnt_1987": {
@@ -55,6 +63,14 @@
           "CHESTPLATE": "Puffer Jacket",
           "LEGGINGS": "Pants",
           "BOOTS": "Boots"
+        }
+      },
+      "business": {
+        "name": "Business Disguise",
+        "armor": {
+          "CHESTPLATE": "Suit & Tie",
+          "LEGGINGS": "Trousers",
+          "BOOTS": "Chukka Boots"
         }
       }
     },
@@ -82,6 +98,14 @@
           "LEGGINGS": "Pants",
           "BOOTS": "Boots"
         }
+      },
+      "business": {
+        "name": "Business Disguise",
+        "armor": {
+          "CHESTPLATE": "Suit & Tie",
+          "LEGGINGS": "Trousers",
+          "BOOTS": "Chukka Boots"
+        }
       }
     },
     "tmnt:michelangelo_tmnt_1987": {
@@ -107,6 +131,14 @@
           "CHESTPLATE": "Puffer Jacket",
           "LEGGINGS": "Pants",
           "BOOTS": "Boots"
+        }
+      },
+      "business": {
+        "name": "Business Disguise",
+        "armor": {
+          "CHESTPLATE": "Suit & Tie",
+          "LEGGINGS": "Trousers",
+          "BOOTS": "Chukka Boots"
         }
       }
     }
