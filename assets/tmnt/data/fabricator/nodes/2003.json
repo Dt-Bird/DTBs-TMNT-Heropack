@@ -1,0 +1,14 @@
+{
+  "display": {
+    "name": "2003 TMNT",
+    "description": "Adds the Teenage Mutant Ninja Turtles and others from the 2003-2009 animated series and the 2009 movie Turtles Forever! (WORK IN PROGRESS)",
+    "icon": {
+      "texture": "tmnt:textures/gui/nodes/2003_node.png"
+    }
+  },
+  "requirements": ["tmnt:tmnt"],
+  "locked": true,
+  "price": {
+    "XP_LEVELS": 99999
+  }
+}

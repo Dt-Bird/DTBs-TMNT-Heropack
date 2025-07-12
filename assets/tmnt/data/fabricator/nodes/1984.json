@@ -1,0 +1,14 @@
+{
+  "display": {
+    "name": "1984 TMNT",
+    "description": "Adds the Teenage Mutant Ninja Turtles and others from Mirage Comics' 1984-1996 run! (WORK IN PROGRESS)",
+    "icon": {
+      "texture": "tmnt:textures/gui/nodes/1984_node.png"
+    }
+  },
+  "requirements": ["tmnt:tmnt"],
+  "locked": true,
+  "price": {
+    "XP_LEVELS": 99999
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "display": {
+    "name": "2007 TMNT",
+    "description": "Adds the Teenage Mutant Ninja Turtles and others from the 2007 movie TMNT! (WORK IN PROGRESS)",
+    "icon": {
+      "texture": "tmnt:textures/gui/nodes/2007_node.png"
+    }
+  },
+  "requirements": ["tmnt:tmnt"],
+  "locked": true,
+  "price": {
+    "XP_LEVELS": 99999
+  }
+}
