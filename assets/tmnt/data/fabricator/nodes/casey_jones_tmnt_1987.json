@@ -3,7 +3,6 @@
   "requirements": [
     "fiskheroes:tier2_3",
     "fiskheroes:melee",
-    "tmnt:tmnt",
     "tmnt:1987"
   ]
 }

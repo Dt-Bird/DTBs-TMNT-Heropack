@@ -3,7 +3,6 @@
   "requirements": [
     "fiskheroes:tier1",
     "fiskheroes:ranged",
-    "tmnt:tmnt",
     "tmnt:1987"
   ]
 }
